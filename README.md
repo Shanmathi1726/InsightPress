@@ -75,8 +75,6 @@ Shanmathi Gopi
 
 ---
 
-## Media Source Page
-![Media Source](assets/media_source.png)
 
 
 
