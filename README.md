@@ -50,3 +50,34 @@ AI-style executive insights and publishing recommendations.
 ## Developed By
 
 Shanmathi Gopi
+
+
+
+
+
+---
+
+# Screenshots
+
+## Home Page
+![Home](assets/home page.png)
+
+---
+
+## About Page
+![About](assets/about page.png)
+
+---
+
+## Analytics Dashboard
+![Analytics](assets/analytics page.png)
+
+---
+
+## Insights Dashboard
+![Insights](assets/insights page.png)
+
+---
+
+## Media Source Page
+![Media Source](assets/media source page.png)
