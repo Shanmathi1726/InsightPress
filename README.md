@@ -51,33 +51,32 @@ AI-style executive insights and publishing recommendations.
 
 Shanmathi Gopi
 
-
-
-
-
 ---
 
 # Screenshots
 
 ## Home Page
-![Home](assets/home page.png)
+![Home](assets/home.png)
 
 ---
 
 ## About Page
-![About](assets/about page.png)
+![About](assets/about.png)
 
 ---
 
 ## Analytics Dashboard
-![Analytics](assets/analytics page.png)
+![Analytics](assets/analytics.png)
 
 ---
 
 ## Insights Dashboard
-![Insights](assets/insights page.png)
+![Insights](assets/insights.png)
 
 ---
 
 ## Media Source Page
-![Media Source](assets/media source page.png)
+![Media Source](assets/media_source.png)
+
+
+
